@@ -1,10 +1,7 @@
 title: Code tutoring with Dr James A. Baker
 description: Helping children code with confidence and curiosity
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_downloads: false
-
-# Using GitHub profile image as logo
-logo: https://github.com/JamesABaker.png
 
 # GitHub Pages settings
 markdown: kramdown
