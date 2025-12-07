@@ -59,5 +59,3 @@ I'm patient, friendly, and great at explaining complex ideas in simple steps usi
 Whether your child is a total beginner or already curious about coding, I adapt sessions to their pace, interests, and confidence level.
 
 ---
-
-© 2025 all rights reserved.
