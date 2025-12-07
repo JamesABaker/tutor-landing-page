@@ -4,10 +4,6 @@ title: Code tutoring with Dr James A. Baker
 description: Helping children code with confidence and curiosity
 ---
 
-# Code tutoring with Dr James A. Baker
-
-**Helping children code with confidence and curiosity**
-
 South Cambridgeshire and North Hertfordshire area
 
 ---
