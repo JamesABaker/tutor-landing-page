@@ -8,13 +8,13 @@ description: Helping children code with confidence and curiosity
   <img src="https://github.com/JamesABaker.png" alt="James A. Baker" width="200" style="border-radius: 50%;">
 </p>
 
-South Cambridgeshire and North Hertfordshire area
-
 ---
 
 ☎️ [07713834065](tel:07713834065)
 
 ✉️ [james.a.baker@protonmail.com](mailto:james.a.baker@protonmail.com)
+
+Serving the South Cambridgeshire and North Hertfordshire area
 
 ---
 
@@ -38,7 +38,7 @@ In summary, I have taught learners from primary school to university level 📚.
 - 🎓 Private tutoring
 - 👨‍💼 Delivered workshops on various coding aspects to students and professionals
 - 👾 🧬 Won funding from the Wellcome Trust to run hands-on sessions where children learn science through video games
-- I was featured in the [Sanger blog post on "Inspiring prisoners and their families with genomics"](http://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/)
+- I was featured in the Sanger blog post on "Inspiring prisoners and their families with genomics"
 
 ---
 
