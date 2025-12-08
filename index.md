@@ -14,7 +14,12 @@ description: Helping children code with confidence and curiosity
 
 ✉️ [james.a.baker@protonmail.com](mailto:james.a.baker@protonmail.com)
 
-Serving the South Cambridgeshire and North Hertfordshire area
+Serving the South Cambridgeshire and North Hertfordshire area.
+
+Reach out to discuss:
+
+- 🏫🧑‍🏫 Code club classroom workshops
+- 🧑‍💻 1:1 in person code coaching for ages 7+
 
 ---
 
@@ -46,7 +51,7 @@ In summary, I have taught learners from primary school to university level 📚.
 
 I love helping learners discover that programming is creative, playful, and something anyone can enjoy.
 
-### 👦👧 *What will your child will learn?*
+### 👦👧 *What will your child learn?*
 
 My lessons are designed specifically for KS2 learners (ages 7-11), and this may be useful for some older children catching up on coding and computing. The lessons will cover concepts in the DfE National curriculum for England, and usually we will go beyond the curriculum very swiftly.
 
