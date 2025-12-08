@@ -35,7 +35,7 @@ In all that, my favourite work has always been teaching young people about techn
 
 ---
 
-## Tutoring Experience
+## Teaching Experience
 
 In summary, I have taught learners from primary school to university level 📚.
 
@@ -63,4 +63,3 @@ I'm patient, friendly, and great at explaining complex ideas in simple steps usi
 
 Whether your child is a total beginner or already curious about coding, I adapt sessions to their pace, interests, and confidence level.
 
----
