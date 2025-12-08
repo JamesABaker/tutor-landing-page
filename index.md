@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code tutoring with Dr James A. Baker
+title: Code Tutoring with Dr James A. Baker
 description: Helping children code with confidence and curiosity
 ---
 
@@ -37,7 +37,7 @@ In all that, my favourite work has always been teaching young people about techn
 
 ## Teaching Experience
 
-In summary, I have taught learners from primary school to university level 📚.
+In summary, I have taught learners from primary school to university level and professionals 📚.
 
 - 🧑‍💻 I've volunteered as a Code Club mentor for the Raspberry Pi Foundation, delivered workshops in schools
 - 🎓 Private tutoring
@@ -49,7 +49,7 @@ In summary, I have taught learners from primary school to university level 📚.
 
 ## Tutoring Approach
 
-I love helping learners discover that programming is creative, playful, and something anyone can enjoy.
+I love helping learners discover that programming is creative, playful, social and something anyone can enjoy.
 
 ### 👦👧 *What will your child learn?*
 
