@@ -53,9 +53,9 @@ I love helping learners discover that programming is creative, playful, social a
 
 ### 👦👧 *What will your child learn?*
 
-My lessons are designed specifically for KS2 learners (ages 7-11), and this may be useful for some older children catching up on coding and computing. The lessons will cover concepts in the DfE National curriculum for England, and usually we will go beyond the curriculum very swiftly.
+My lessons are designed specifically for KS2 learners (ages 7-11). For KS1, check out the free [Scratch Junior App](https://www.scratchjr.org/) 😻.  My approach may be useful for some older children catching up on coding and computing. The lessons will cover concepts in the DfE National curriculum for England, and usually we will go beyond the curriculum very swiftly.
 
-I will start by loosely adhering to the [Raspberry Pi's scratch modules](https://projects.raspberrypi.org/en/collections/scratch) which cover algorithms, and building with code. However, I believe in child led learning. If your child is less interested in making games or programming animations, and is more interested in technology and robots, we will follow the [BBC's micro:bit projects](https://microbit.org/projects/make-it-code-it/). 🎓 These can be followed by a gentle introduction to Python when they are ready (a widely used text based programming language).
+I will start by loosely adhering to the [Raspberry Pi's scratch modules](https://projects.raspberrypi.org/en/collections/scratch) which cover algorithms, and building with code. If your child is less interested in making games or programming animations, and is more interested in technology and robots, we will follow the [BBC's micro:bit projects](https://microbit.org/projects/make-it-code-it/). 🎓 These can be followed by a gentle introduction to Python when they are ready (a widely used text based programming language).
 
 Beyond the meat of the coding, there are also other skills we will cover like digital safety, and how to use search tools effectively.
 
@@ -63,3 +63,29 @@ I'm patient, friendly, and great at explaining complex ideas in simple steps usi
 
 Whether your child is a total beginner or already curious about coding, I adapt sessions to their pace, interests, and confidence level.
 
+### Content covered
+
+- 🧩 Algorithms and problem solving
+- 🔁 Programming with sequence, selection and loops
+- 🐞 Debugging and testing programs
+- 🧠 Logical reasoning and code comprehension
+- 📦 Variables
+- 🧱 Modular code and reusable components
+- 🎮 Making games and animations with [Scratch](https://scratch.mit.edu/)
+- 🤖 Physical computing with [BBC micro:bit](https://microbit.org/projects/make-it-code-it/)
+- 🖱️ Learning about the parts of a computer
+- 🐍 Progression from block-based coding to Python
+- 🔐 Digital safety and responsible technology use
+- 🔎 Using search tools and technology effectively
+
+### 🛡️ Safeguarding
+
+- DBS certified
+- Client References Available on Request
+- Raspbery Pi Foundation Code Club Safeguarding Training
+
+## Rates
+
+- My rate is £40 per hour.
+- Bulk discounts available.
+- Means tested discounts available.
